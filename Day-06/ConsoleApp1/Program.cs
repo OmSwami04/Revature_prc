@@ -5,7 +5,10 @@
         static void Main(string[] args)
         {
             DelegateDemo d = new DelegateDemo();
-            d.Run();
+            // d.Run();
+            //d.LambdaExpressionDemo();
+            //d.AnonymousMethodDemo();
+            d.HighOrderFunction();
         }
     }
 }
