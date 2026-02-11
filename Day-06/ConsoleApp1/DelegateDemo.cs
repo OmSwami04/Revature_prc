@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 using System;
-=======
-﻿using System;
->>>>>>> bc33954 (add highorder function)
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,8 +9,6 @@ namespace ConsoleApp1
 {
     public class DelegateDemo
     {
-<<<<<<< HEAD
-=======
         public void HighOrderFunction()
         {
             var result = CalculateArea(AreaOfRectangle);
@@ -28,7 +22,6 @@ namespace ConsoleApp1
         {
             return length * width;
         }
->>>>>>> bc33954 (add highorder function)
         //delegate int MathOperation(int a,int b);
         // Generic Delegate
 
