@@ -6,6 +6,7 @@
     <RootNamespace>Day_07</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>Day_07.Try_Catch</StartupObject>
   </PropertyGroup>
 
 </Project>
